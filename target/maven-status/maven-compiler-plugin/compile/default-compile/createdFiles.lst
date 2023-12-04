@@ -1,0 +1,17 @@
+cm/iutgi/iutVote/entities/Admin.class
+cm/iutgi/iutVote/entities/Classe.class
+cm/iutgi/iutVote/entities/Candidat.class
+cm/iutgi/iutVote/entities/Etudiant.class
+cm/iutgi/iutVote/entities/Niveau.class
+cm/iutgi/iutVote/controller/ApiConnect.class
+cm/iutgi/iutVote/ejb/AdminManager.class
+cm/iutgi/iutVote/entities/Filiere.class
+cm/iutgi/iutVote/entities/EectionCandidat.class
+cm/iutgi/iutVote/entities/Formation.class
+cm/iutgi/iutVote/entities/Departement.class
+cm/iutgi/iutVote/entities/Election.class
+cm/iutgi/iutVote/ejb/EtudiantManager.class
+cm/iutgi/iutvote/JakartaRestConfiguration.class
+cm/iutgi/iutvote/resources/JakartaEE8Resource.class
+cm/iutgi/iutVote/ejb/ClasseManager.class
+cm/iutgi/iutVote/entities/Vote.class

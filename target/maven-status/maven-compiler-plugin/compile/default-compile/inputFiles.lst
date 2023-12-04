@@ -1,0 +1,17 @@
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/controller/ApiConnect.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/ejb/AdminManager.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Formation.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Classe.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Departement.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Etudiant.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/ejb/ClasseManager.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Admin.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Vote.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Election.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/ejb/EtudiantManager.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Candidat.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/EectionCandidat.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Niveau.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutvote/resources/JakartaEE8Resource.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutvote/JakartaRestConfiguration.java
+/home/saims/NetBeansProjects/iutVote/src/main/java/cm/iutgi/iutVote/entities/Filiere.java
